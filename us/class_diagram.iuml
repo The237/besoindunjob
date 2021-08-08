@@ -1,0 +1,14 @@
+@startuml lass 
+
+package "BusinessRules" ###F {
+    package "Entity" #EEEEE{
+        class User
+        class JobSeeker
+    }
+
+    package "Use Case" #EEEEE{  
+        skinparam 
+    }
+}
+
+@enduml
