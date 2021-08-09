@@ -1,4 +1,4 @@
-Feature : Register
+Feature: Register
     Scenario: As a job seeker I want to register so that I lool for a new job
         Given I need to register to look for a new job
         When I fill the registration form
